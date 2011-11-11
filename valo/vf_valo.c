@@ -149,8 +149,8 @@ static int vf_open(vf_instance_t *vf, char *args)
 }
 
 const vf_info_t vf_info_valo = {
-    "valo",
     "DIY ambilight",
+    "valo",
     "squiddy",
     "",
     vf_open,
